@@ -1,1 +1,3 @@
 "# intellimerge-conflict" 
+
+main direct
